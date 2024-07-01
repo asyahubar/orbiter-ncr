@@ -1,6 +1,7 @@
 {
   "name": "orbit",
   "version": "0.0.0",
+  "author": "Anastasiia Hubar <asyahubar@outlook.com>",
   "private": true,
   "type": "module",
   "scripts": {
