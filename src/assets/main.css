@@ -24,5 +24,10 @@ a,
   body {
     display: flex;
     place-items: center;
+    height: 200%;
   }
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
